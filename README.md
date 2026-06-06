@@ -33,7 +33,7 @@ Healthcare-Management-System/
 │
 ├── main.c
 ├── headers.h
-  ├── struct.h
+  ├── struct.c
   ├── load.c
   ├── bookapp.c
   ├── save.c
@@ -50,7 +50,8 @@ Healthcare-Management-System/
 ## Project Files
 
 * `hsptl_project.c` – Main menu and program execution
-* `struct.h` – Structure declarations and function prototypes
+* `headers.h` - Contains all the headers files in file to make mutlifile compilation easy
+* `struct.c` – Structure declarations and function prototypes
 * `load.c` – Load patient data from file
 * `bookapp.c` – Book appointment functionality
 * `print.c` – Display patient records
