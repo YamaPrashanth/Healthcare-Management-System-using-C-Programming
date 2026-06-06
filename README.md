@@ -78,6 +78,21 @@ gcc hsptl_project.c -o hospital
 * `hospital.txt` stores patient records.
 * `password.txt` stores user login credentials.
 
+## Output images
+
+### Login details
+
+<img width="550" height="418" alt="image" src="https://github.com/user-attachments/assets/5add97f8-d174-40ab-b01d-5879b4e6b722" />
+
+### Printing all Patient Details
+
+<img width="502" height="685" alt="image" src="https://github.com/user-attachments/assets/23ff048a-5878-4a55-9129-c1006837f54f" />
+
+### Booking an Appointment
+
+<img width="537" height="372" alt="image" src="https://github.com/user-attachments/assets/1f1e8536-15fe-4fab-85bc-4f7b460da3eb" />
+
+
 ## Concepts Demonstrated
 
 * Dynamic Memory Allocation
