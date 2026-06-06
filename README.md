@@ -25,20 +25,27 @@
 * Multi-file Programming
 
 ## Files Structure
-Hospital-Management-System/
+
+## Project Structure
+
+```text
+Healthcare-Management-System/
 │
-├── hsptl_project.c
-├── struct.h
-├── load.c
-├── bookapp.c
-├── save.c
-├── delete.c
-├── modify.c
-├── search.c
-├── print.c
-├── password.c
+├── main.c
+├── headers.h
+  ├── struct.h
+  ├── load.c
+  ├── bookapp.c
+  ├── save.c
+  ├── delete.c
+  ├── modify.c
+  ├── search.c
+  ├── print.c
+  ├── password.c
 ├── hospital.txt
 ├── password.txt
+└── README.md
+```
 
 ## Project Files
 
@@ -77,7 +84,6 @@ gcc hsptl_project.c -o hospital
 * File Handling
 * Structures
 * String Manipulation
-* Modular Programming
 
 ## Future Enhancements
 
