@@ -1,0 +1,12 @@
+
+===== All Patient Details =====
+-----------------------------------
+Name         : sai
+Appoint No   : 101
+Contact      : 1234567
+Room No      : 12
+Admitted     : Yes
+Doctor       : prashanth
+Disease      : eye
+Join Date    : 01-07-2025
+Discharge    : 12-07-2025
